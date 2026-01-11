@@ -1,0 +1,9 @@
+{
+	"name": "abhishek-azureproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fc599f3f-e002-405b-9301-e05bf93f73ad",
+		"tenantId": "1490b17d-5dc9-4cbf-aeba-a2e854f521b8"
+	}
+}
